@@ -1,0 +1,3 @@
+1. Qual é a principal dor ou problema da sua comunidade?
+2. O que você gostaria de transformar com a ajuda da tecnologia?
+3. Como sua fé ou espiritualidade pode guiar seus projetos com Python?
